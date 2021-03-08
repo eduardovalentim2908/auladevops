@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head><script src="/gdpr/gdprscript.js?buildTime=1607711134&hasRemindMe=true&stealth=false"></script>
-		<title>EQUIPE DE PESCA BIGU&Aacute; - Inicio</title><meta property="og:site_name" content="EQUIPE DE PESCA BIGU&Aacute;" />
-<meta property="og:title" content="EQUIPE DE PESCA BIGU&Aacute;" />
+		<title>EQUIPE PIRATAS DE ÁGUA DOCE; - Inicio</title><meta property="og:site_name" content="EQUIPE PIRATAS DE ÁGUA DOCE;" />
+<meta property="og:title" content="EQUIPE PIRATAS DE ÁGUA DOCE;" />
 <meta property="og:description" content="&quot;O objetivo da Pesca Esportiva é fisgar o peixe! Pelo prazer de pescar, por isso os peixes são devolvidos vivos a natureza”" />
 <meta property="og:image" content="http://equipedepescabigua.com.br/uploads/5/3/2/5/53259931/editor/logo1_1.png?1552399925" />
 <meta property="og:image" content="http://equipedepescabigua.com.br/uploads/5/3/2/5/53259931/01_orig.png" />
