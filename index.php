@@ -149,7 +149,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 
 	<a href="/">
 	
-	<span id="wsite-title">EQUIPE DE PESCA BIGU&Aacute;</span>
+	<span id="wsite-title">EQUIPE PIRATAS DE AGUA DOCE;</span>
 	
 	</a>
 
@@ -225,7 +225,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 <div style="display:block;font-size:90%"></div>
 </div></div>
 
-<h2 class="wsite-content-title">"Pescar &eacute; nossa paix&atilde;o"</h2>
+<h2 class="wsite-content-title">"Pescar é o nosso esporte e a nossa paixão."</h2>
 				</div>
 			</div>
 					</div>
