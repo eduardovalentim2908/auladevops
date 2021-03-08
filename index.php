@@ -220,7 +220,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 				<div class="wsite-section-elements">
 					<div><div class="wsite-image wsite-image-border-none " style="padding-top:0px;padding-bottom:0px;margin-left:0px;margin-right:0px;text-align:inherit">
 <a>
-<img src="/uploads/5/3/2/5/53259931/editor/logo1_1.png?1552399925" alt="Picture" style="width:344;max-width:100%" />
+<img src="http://equipedepescabigua.com.br/uploads/5/3/2/5/53259931/editor/logo1_1.png?1552399925" alt="Picture" style="width:344;max-width:100%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
