@@ -93,6 +93,9 @@
           <h1>KnightOne - Create Bootstrap Website Template</h1>
           <h2>We are team of designers making websites with Bootstrap</h2>
           <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
+
+          <h2>Clique no link abaixo para fazer seu pedido!</h2>
+          <a terget="_blank" href="https://api.whatsapp.com/send?phone=5511999999999&text=fa%C3%A7a%20seu%20pedido%20de%20produtos%20pelo%20WhatsApp"></a>
         </div>
       </div>
     </div>
